@@ -20,7 +20,7 @@
     margin: 0px;
     padding: 0px;
 }
-body {
+body, html {
     background-color: var(--claro);
     font-family: var(--fonte-padrao);
 }
